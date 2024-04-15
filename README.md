@@ -1,10 +1,10 @@
 # Youtube_project
 An analysis of Youtube trending videos across three different nations, the United States, England, and Canada. 
 The questions we sought to answer were 'How trends very across different regions or categories?' and 'What is he average engagement for trending Youtube videos?'
-<<<<<<< HEAD
+
 We found our information by using the Youtube api (https://developers.google.com/youtube/v3/getting-started) and generating the information regarding audience engagement with the top trending 50 videos of each region.We collected the information on the video's title, id, category, views, likes, comments, and duration. From this, we stored the information of each video into a CSV file for each region. 
 First we tested the hypothesis of: The United States has higher viewership and engagement (likes/comments) on average when compared with Canada and United Kingdom, comparing it to the null hypothesis of: There is no significant differences between viewership and engagement (likes/comments) across each nation. To do this, we found the statistic measures of views and comments accross the United States (US), England (GB), and Canada (CA). We then stored these into a dataframe for each country. 
-=======
+
 We found our information by using the Youtube api (https://developers.google.com/youtube/v3/getting-started) and generating the information regarding audience engagement with the top trending 50 videos of each region. We collected the information on the video's title, id, category, views, likes, comments, and duration. From this, we stored the information of each video into a CSV file for each region. 
 
 First we tested the hypothesis of: The United States has higher viewership and engagement (likes/comments) on average when compared with Canada and United Kingdom, comparing it to the null hypothesis of: There is no significant differences between viewership and engagement (likes/comments) across each nation. To do this, we found the statistic measures of views and comments accross the United States (US), United Kingdom (GB), and Canada (CA). We then stored these into a dataframe for each country. 
@@ -41,4 +41,3 @@ P-value: 0.4152082658263955
 ------------------------------
 
 When looking at the P-value of all the results, all of them are greater than 0.05. Thus we fail to reject the null hypothesis. This means that there is no significant difference between viewership engagement.
->>>>>>> bd09b73d4de12b3edcaf5f787d817652926490fd
