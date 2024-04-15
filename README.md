@@ -41,3 +41,19 @@ P-value: 0.4152082658263955
 ------------------------------
 
 When looking at the P-value of all the results, all of them are greater than 0.05. Thus we fail to reject the null hypothesis. This means that there is no significant difference between viewership engagement.
+
+## Trending Topics Across the Regions
+Our second hypothesis: Audiences engage more with Entertainment, Music and Autos & Vehicles categories of YouTube videos than any other category of videos across different regions. From the data we pulled and stored into a CSV file, we created pie charts of the breakdown of the video categories for all three regions. The images below show the breakdown for each region.
+![UK_pie](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/45ab9954-e2ad-4151-872a-55aafb52b791)
+
+![CA_pie](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/3a71e87b-4138-4863-86c6-1b4d11e6f3a7)
+
+![US_pie](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/6a05a968-8b2c-48ad-978d-04401305fbd9)
+
+It is clear that videos in the Music and the Entertainment categories takes up almost half of the Trending list in all the three regions. We can also see that from the pie chart describing UK's trending page, users in the UK region also likes watching videos on Autos and Vehicles while users in Canada and the US prefer vlogs.
+
+Here is a grouped bar chart showing the number of videos of different categories in trending for each region. The pink, blue, and green represents UK, Canada, and the US respectively.
+
+![Grouped_bar_category](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/256009e7-c63c-46c5-9cc4-17d73bc86fe1)
+
+From this chart, we are able to tell that users in Canada and the UK have a more diverse interest in different topics, like Comedy or News & Politics. What seem to draw the most attention from almost all three regions are Gaming videos and Music.
