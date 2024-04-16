@@ -60,3 +60,17 @@ Here is a grouped bar chart showing the number of videos of different categories
 ![grouped_bar](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/4a5d7eb5-761e-4b9e-af8f-49c55ce104fc)
 
 From this chart, it seems that there's a lot more Entertainment videos in trending for UK, while Canada prefers Gaming and Music videos, and the US prefers Sports.
+
+## Video Length and Views
+We are also interested to see if the video length affected user interest thus the popularity that results in being on the Trending page. We made several scatterplots comparing the Video lengths and View counts overall and in each region.
+
+![video_length_vs_views](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/64a28475-53ca-4e66-b2df-20df35e4e50d)
+
+The correlation coefficient between video length and views overall is -0.16. Thus, there is a weak negative correlation between video length and views.
+That means that there is a slight tendency that as video length increases, the views decrease. Similarly for each region.
+
+![UK_scatter](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/477fb84d-8838-4905-864e-2b12bcbde57a)
+
+![CA_scatter](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/961fe7de-337f-4ef9-be0f-b859c6f90bf3)
+
+![US_scatter](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/ccf3147b-2835-4824-a894-b96b1f7ed60c)
