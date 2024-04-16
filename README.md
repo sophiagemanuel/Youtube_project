@@ -51,10 +51,10 @@ Our second hypothesis: Audiences engage more with Entertainment, Music and Autos
 
 ![US_pie](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/a8480717-29d0-4ca4-bc05-c7b5b110e1d3)
 
-It is clear that videos in the Music and the Entertainment categories takes up almost half of the Trending list in all the three regions. We can also see that from the pie chart describing UK's trending page, users in the UK region also likes watching videos on Autos and Vehicles while users in Canada and the US prefer vlogs.
+It is clear that users in the UK and the US have more interest in Sports and in Science & Technology, while users in Canada are more interested in Music and vlogs as those categories take up almost half of what is trending. It also tells us that the users in UK have a more diverse interest as their trending videos span across 13 different categories, while the US's and Canada's only has 10 and 11 different categories respectively.
 
 Here is a grouped bar chart showing the number of videos of different categories in trending for each region. The pink, blue, and green represents UK, Canada, and the US respectively.
 
 ![grouped_bar](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/4a5d7eb5-761e-4b9e-af8f-49c55ce104fc)
 
-From this chart, we are able to tell that users in Canada and the UK have a more diverse interest in different topics, like Comedy or News & Politics. What seem to draw the most attention from almost all three regions are Gaming videos and Music.
+From this chart, it seems that there's a lot more Entertainment videos in trending for UK, while Canada prefers Gaming and Music videos, and the US prefers Sports.
