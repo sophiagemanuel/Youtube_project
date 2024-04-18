@@ -62,7 +62,7 @@ Here is a grouped bar chart showing the number of videos of different categories
 From this chart, it seems that there's a lot more Entertainment videos in trending for UK, while Canada prefers Gaming and Music videos, and the US prefers Sports.
 
 ## Video Length and Views
-We are also interested to see if the video length affected user interest thus the popularity that results in being on the Trending page. We made several scatterplots comparing the Video lengths and View counts overall and in each region.
+Additionally, we were interested to see if the video length affected user interest, leading it to result to being on the Trending page. We made several scatterplots comparing the Video lengths and View counts overall and in each region.
 
 ![video_length_vs_views](https://github.com/sophiagemanuel/Youtube_project/assets/161385170/64a28475-53ca-4e66-b2df-20df35e4e50d)
 
@@ -77,59 +77,52 @@ That means there is a slight tendency for views to decrease as video length incr
 
 ## Statistical Anomalies and Outliers
 
-In the date range that we pulled the data from, there were many live, current events being broadcast that were Trending on YouTube such as Coachella, where view count and comment count information was unavailable for certain videos
+In the date range that we pulled the data from, there were many live, current events being broadcast that were Trending on YouTube such as Coachella, where view count and comment count information was unavailable for certain videos.
 
-Therefore we concluded that this information might have affected the view count and engagement values that we collected from the United States region
+Therefore, we concluded that this information might have affected the view count and engagement values that we collected from the United States region.
 
-Also we examined the data further to identify if any outliers might help prove or disprove our hypothesis
+Additionally, we examined the data further to identify if any outliers might help prove or disprove our hypothesis.
 
-We conducted further analysis to find out if there are any significant outliers that we have to consider that may impact our conclusions
+We then conducted further analysis to find if there are any significant outliers that we have to consider that may impact our conclusions.
 
-Although we were able to find outliers in all three regions these outliers did not provide any significant information that would lead us to reject the conclusions we arrived at previously
+Although we were able to find outliers in all three regions, these outliers did not provide any significant information that would lead us to reject the conclusions we arrived at previously.
 
 ![download](https://github.com/sophiagemanuel/Youtube_project/assets/161780046/6dbb251f-0baa-4e0d-b0ca-b14816dbdb8c)
 
 ## Final Analysis
-We were able to answer our questions and was able to collect relevant data that proved or disproved our 2 main hypothesis
 
-Our first hypothesis was disproved because we were unable to find a significant statistical difference between the views and engagements of US trending videos when compared with UK and Canada
+Our first hypothesis was disproved because we were unable to find a significant statistical difference between the views and engagements of US trending videos when compared with UK and Canada.
 
-There was enough statistical evidence to suggest that we could not disprove our null hypothesis as p-values were greater than 0.05 for all our statistical comparisons
+There was enough statistical evidence to suggest that we fail to reject our null hypothesis, as p-values were greater than 0.05 for all our statistical comparisons.
 
-In our second hypothesis, we were able to collect data that provided significant evidence that proved the YouTube trending audience had higher engagements and views with Entertainment and Music categories
+In our second hypothesis, we were able to collect data that provided significant evidence that proved the YouTube trending audience had higher engagements and views with Entertainment and Music categories.
 
-Music and Entertainment accounted for approximately 38% of the total viewership of the Canadian YouTube trending audience, while it accounted for 20% of viewership in the US region
+Music and Entertainment accounted for approximately 38% of the total viewership of the Canadian YouTube trending audience and approcimately accounted for 20% of viewership in the US region,
+but we could not find enough evidence to suggest that the audience engaged with the Automobiles category of videos on YouTube.
 
-Although we could not find enough evidence to suggest that the audience engaged with the Automobiles category of videos on YouTube
+Therefore, some arguments in our second hypothesis had to be rejected or were unproven
 
-Therefore some arguments in our second hypothesis had to be rejected or were unproven
+We were also able to identify the unique preferences of the YouTube audience when we examined engagements/views of UK, US, and Canada individually.
 
-We were able to identify the unique preferences of the YouTube audience when we examined engagements/views of UK, US, and Canada individually
+In our analysis, we were able to identify that the US audience engaged more with Science/Technology (18.4%), Comedy (24.5%), and Sports (14.3%),
 
-In our analysis, we were able to identify that the US audience engaged more with Science/Technology (18.4%), Comedy (24.5%), and Sports (14.3%)
+UK audience engaged with Science/Technology (16%), Sports (24%), and People/Blogs (16%),
 
-UK audience engaged with Science/Technology (16%), Sports (24%), and People/Blogs (16%)
+Canadian audiences engaged with Music (24%), People/Blogs (24%), and Entertainment (14%).
 
-Canadian audiences engaged with Music (24%), People/Blogs (24%), and Entertainment (14%)
+We were able to identify similar and different interests of the English-speaking YouTube audience:
 
-We were able to identify similar and different interests of the English-speaking YouTube audience
+US and UK audience is highly engaged with Science/Technology and Sports content and Canada and UK audience is engaged with People & Blogs. 
 
-US and UK audience is highly engaged with Science/Technology and Sports content
-
-Canada and UK audience is engaged with People & Blogs 
-
-We attempted to identify any trends in viewer engagement and video length
-
-Statistical analysis did not find a significant correlation between video length and viewer engagement
-
-In conclusion,  as the video length increases, views decreased
+We also tried to identify any correlation trends in viewer engagement and video length, but statistical analysis did not find a significant correlation between video length and viewer engagement.
+We did find that as the video length increases, views decreased
 
 We were able to identify the following trends and come to these conclusions
-1. There is no significant statistical difference between viewership and engagement of UK, US, and Canadian YouTube trending audiences
-2. Entertainment and Music, Science and Technology, and People and Blogs are the most popular categories on YouTube trending across the UK, the US and Canada
-3. Canadian and UK audience has higher engagements with the People & Blogs category of videos
-4. UK and US audiences engage more with Sports, Science and Technology
-5. As video length increases there is a higher probability that the views decrease
+1. There is no significant statistical difference between viewership and engagement of UK, US, and Canadian YouTube trending audiences.
+2. Entertainment and Music, Science and Technology, and People and Blogs are the most popular categories on YouTube trending across the UK, the US and Canada.
+3. Canadian and UK audience has higher engagements with the People & Blogs category of videos.
+4. UK and US audiences engage more with Sports, Science and Technology.
+5. As video length increases, there is a higher probability that the views decrease.
 
 
 
